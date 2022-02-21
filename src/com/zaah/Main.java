@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Fuck this SHIT");
         System.out.println("Something");
 
+
     }
 }
